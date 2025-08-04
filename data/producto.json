@@ -1,0 +1,31 @@
+[
+  {
+    "codigo": 101,
+    "nombre": "Teclado Luminoso RGB",
+    "precio": 950,
+    "categoria": [
+      "Accesorios",
+      "Computación",
+      "Gaming"
+    ]
+  },
+  {
+    "codigo": 102,
+    "nombre": "Mouse inalámbrico",
+    "precio": 25.99,
+    "categoria": [
+      "Accesorios",
+      "Computación"
+    ]
+  },
+  {
+    "codigo": 103,
+    "nombre": "Laptop HP 15",
+    "precio": 1200,
+    "categoria": [
+      "Computación",
+      "Portátiles"
+    ]
+  }
+  
+]
